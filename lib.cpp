@@ -11,3 +11,4 @@ bool primo(int numero, int i) {
     primo(numero, i);
   }
   else return true;//resto!=0&&i<=1
+}
